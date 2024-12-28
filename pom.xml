@@ -22,7 +22,7 @@
               <version>3.4.0</version>
             </plugin>
           </plugins>        
-        <finalName>${artifactId}</finalName>
+        <finalName>${project.artifactId}</finalName>
     </build>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
